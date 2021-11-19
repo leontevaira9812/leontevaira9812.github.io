@@ -32,6 +32,11 @@ h1, h2, h3, h4, h5,
 .text-black {
   color: #000 !important; }
 
+.header{
+    text-align:center;
+    margin-left:30%;
+}
+
 .bg-black {
   background: #000 !important; }
 
